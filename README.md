@@ -11,4 +11,4 @@ The code is rough and no doubt can be condensed and streamlined to be more effic
 This is not exclusively for use with the Boss Katana or indeed Katana Librarian, It just happened to be the subject matter that drove me to compile this code.   
 
 
-I am using ESP32 devkit v1 module with SH1106 display, Stomp switches are wired to GRD.
+I am using ESP32 devkit v1 module with SH1106 display, Stomp switches are wired to GRD. Wiring diagram to follow. 
