@@ -6,3 +6,6 @@ This projec is designed to work through the Katana Librarian android app, In the
 Using elements of the Control Surface library for BLE Midi and the multibuttonfunction for changing MOD, DELAY AND REVERB options on the Boss Katana Amp. 
 
 The code is rough and no doubt can be condensed and streamlined to be more efficient as i have little or no coding experience, apart from what is have learned myself in the pass feww weeks. 
+
+
+This is not exclusively for use with the Boss Katana or indeed Katana Librarian, It just happened to be the subject matter that drove me to compile this code.   
